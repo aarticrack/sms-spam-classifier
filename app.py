@@ -1,6 +1,6 @@
 import streamlit as st
 
-nltk.download()
+
 import nltk
 nltk.download('punkt')
 
