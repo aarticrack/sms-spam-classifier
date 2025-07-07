@@ -4,13 +4,6 @@ import streamlit as st
 import nltk
 nltk.download('punkt_tab')
 
-
-
-import os
-
-nltk_data_path = os.path.join(os.getcwd(), 'nltk_data')
-
-
 nltk.download()
 
 from nltk.corpus import stopwords
