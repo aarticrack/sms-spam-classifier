@@ -1,0 +1,11 @@
+streamlit
+scikit-learn
+pandas
+nltk
+joblib
+numpy
+seaborn
+matplotlib
+nltk_data
+stopwords
+punkt
