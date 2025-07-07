@@ -1,9 +1,8 @@
 import streamlit as st
 
-import nltk
-import nltk
-nltk.download('punkt')
 
+import nltk
+nltk.download('punkt_tab')
 
 
 
