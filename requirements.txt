@@ -8,5 +8,5 @@ seaborn
 matplotlib
 
 stopwords
-punkt_tab
+nltk_data
 
